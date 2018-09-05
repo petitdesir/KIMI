@@ -1,0 +1,89 @@
+  
+   .sereio011 {
+    padding: 50px; 
+    margin-bottom: 0px; 
+    margin-top: -50px; 
+    text-align:justify; 
+    width: 370px; 
+    background-color: rgba(255, 255, 255, 0.85); 
+    border-color: #148793;
+    border-style: double;
+    border-radius: 95px;
+  }   
+   
+.sereio { font-size: 11.5px; 
+    line-height: 200%; 
+    color: #000;
+    font-family: pt sans;
+    white-space:pre-line; 
+    margin-top: 20px; 
+    padding: 20px;}
+    
+.sereio:first-letter {float: left; 
+    margin: 20px 25px 20px 15px;
+    color: #148793;
+    text-transform: uppercase; 
+    font-family:  pt sans; 
+    font-size: 35px; 
+    font-weight: bold; }
+
+.sereio o { color:  #148793; 
+    font-weight: bold;
+    font-family: arial;
+    font-size: 11.5px; }
+    
+.sereio0114 {background-color: transparent;
+    background-position: top; 
+    width: 650px; 
+    background-repeat: no-repeat; 
+    padding-left: 0px; 
+    padding-right: 0px; 
+    padding-bottom: 30px; 
+    padding-top: 200px; 
+    background-image: url(https://i.imgur.com/hg1Mh0Y.png);}
+  
+.gif-sereio {
+    box-shadow: 0px 20px 30px 1px #FFF; 
+    width: 130px; height: 130px; 
+    background-position: center; 
+    position: relative; 
+    top: -120px; 
+    position: relative; 
+    background-image: url(https://i.imgur.com/zSbC4E8.gif);
+   border-radius: 100px;
+   border: 10px solid #FFF;
+  }
+    
+.cred4 { width: 470px; 
+    font: 8px/12px pt sans;
+    text-align: center; 
+    text-transform: uppercase; 
+    letter-spacing: 1px; 
+    position: relative; 
+    top: -240px; 
+    color: #148793; 
+    -moz-transform: rotate(-90deg); 
+    -o-transform: rotate(-90deg); 
+    -webkit-transform: rotate(-90deg); 
+    -ms-transform: rotate(-90deg); 
+    margin-left: 440px;}
+  
+.sereionpc3 {
+  margin-top: 0px; 
+  margin-bottom: 0px; 
+  text-align: center;
+  }
+  
+.sereionpc4 {
+  color: #148793; 
+  font-family: pt sans;
+  font-size: 8px; 
+  letter-spacing: 16px;  
+  word-spacing: 0px; 
+  line-height: 20px;  
+  text-transform: uppercase; 
+  margin-top: -20px; 
+  text-align: center;
+  font-weight: 900;
+  }
+  
